@@ -1,0 +1,29 @@
+/*ini css*/
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+.logo-icon {
+    height: 50px;
+    width: 50px;
+    background-image: url(https://picsum.photos/id/237/200/300);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;}
+
+nav {
+    display: flex;
+}
+
+nav>a {   
+    border: 1px solid;
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+
+}
+.section>img {
+    height: 500px;
+    width: 300px;} 
